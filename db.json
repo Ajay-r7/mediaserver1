@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "caption": "Fight club",
+      "image": "https://www.themoviedb.org/t/p/original/rtEZ3JH8RjFS1b8z2pwyh9YI9WX.jpg",
+      "url": "https://www.youtube.com/embed/8PNU7FFG5cY",
+      "id": 1
+    },
+    {
+      "caption": "Joker",
+      "image": "https://wwwflickeringmythc3c8f7.zapwp.com/q:i/r:0/wp:1/w:1/u:https://cdn.flickeringmyth.com/wp-content/uploads/2019/08/joker-poster-3-600x889.jpg",
+      "url": "https://www.youtube.com/embed/t433PEQGErc",
+      "id": 2
+    },
+    {
+      "caption": "Oppenheimer",
+      "image": "https://th.bing.com/th/id/OIP.iklRyrJeTN6NO_tUxzkuEgAAAA?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "id": 3
+    },
+    {
+      "caption": "Bad Boys",
+      "image": "https://cdn.moviefone.com/admin-uploads/posters/badboys-movie-poster_1712855547.jpg?d=360x540&q=60",
+      "url": "https://www.youtube.com/embed/hRFY_Fesa9Q",
+      "id": 4
+    },
+    {
+      "caption": "Peaky Blinders",
+      "image": "https://www.themoviedb.org/t/p/original/vPlsKun2WZEsqe3yZTmebxtwElW.jpg",
+      "url": "https://www.youtube.com/embed/Ruyl8_PT_y8",
+      "id": 5
+    },
+    {
+      "caption": "Intersteller",
+      "image": "https://www.dvdsreleasedates.com/posters/800/I/Interstellar-2014-movie-poster.jpg",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "id": 6
+    },
+    {
+      "caption": "2018",
+      "image": "https://th.bing.com/th/id/OIP._K1Mx169DW56Srekn5ulvwAAAA?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/KFLEznRbqKk",
+      "id": 7
+    },
+    {
+      "caption": "Batman",
+      "image": "https://www.themoviedb.org/t/p/original/2Ka2nOtSlwuFlsHtrtfHKMIjldC.jpg",
+      "url": "https://www.youtube.com/embed/EXeTwQWrcwY",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Movies",
+      "allVideo": [
+        {
+          "caption": "Bad Boys",
+          "image": "https://cdn.moviefone.com/admin-uploads/posters/badboys-movie-poster_1712855547.jpg?d=360x540&q=60",
+          "url": "https://www.youtube.com/embed/hRFY_Fesa9Q",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Ajay",
+      "allVideo": [],
+      "id": 4
+    },
+    {
+      "categoryName": "Fight club",
+      "allVideo": [],
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "caption": "2018",
+      "url": "https://www.youtube.com/embed/KFLEznRbqKk",
+      "timeStamp": "25/06/2024, 09:50:16",
+      "id": 1
+    }
+  ]
+}

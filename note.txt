@@ -1,0 +1,18 @@
+json-server
+-----------
+-it is lightweight and easy-to-use node.js tool that simulates a RestFulAPI using a json file as the data source.
+-with json server,frontend developer can create mock api's without the need to write complex server-side code or when the backend api isn't ready.
+-it support http request like GET,POST,PUT and DELETE for perfoming CRUD operation
+
+how to create a json server
+---------------------------
+
+-create a folder and install package.json file using npm init -y.
+-install json server library - npm i json-server.
+-update the script key in package.json with start command to run the application(index.js)
+-create git-ignore file.
+-create a json file to store the data.Because json server don't have proper storage.
+-create index.js file to create server.-index. In frontend, index.html is the main file. But here in backend index.js is the only running file.
+
+-require is the key used to import libraries in the server side
+-for further use the require,we have to store the require-const name =require('server').
